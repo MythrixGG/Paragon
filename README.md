@@ -47,11 +47,19 @@ Even though Paragon is advertised as an exploit, cheating on any Roblox game oth
 ---
 
 Walk Speed ✅
+
 Flight ✅
+
 Infinite Jump ✅
+
 ESP ✅
-Auto Trigger ❓
-Anti AFK ❓
+
 Brightness ✅
+
 TP to Player ✅
+
 Waypoints ✅
+
+Auto Trigger ❓
+
+Anti AFK ❓
