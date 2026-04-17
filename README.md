@@ -60,6 +60,8 @@ TP to Player ✅
 
 Waypoints ✅
 
+X-Ray ✅
+
 Auto Trigger ❓
 
 Anti AFK ❓
