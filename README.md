@@ -15,7 +15,7 @@ If you want to get this legitimately, simply open Roblox Studio, and place the s
 To use this script with an executor, just paste the following line:
 
 ```jsx
-loadstring(game:HttpGet("https://github.com/MythrixGG/Paragon/blob/main/paragon.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MythrixGG/Paragon/refs/heads/main/paragon.lua", true))()
 ```
 
 and execute it into your game. The key is located on the Discord, and it changes bi-weekly. 
