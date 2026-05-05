@@ -40,7 +40,7 @@ I will likely add better obfuscation later, but this code is mid so even if some
 
 ---
 
-Even though Paragon is advertised as an exploit, cheating on any Roblox game other than your *own* is against terms of service and highly bannable. You are fully responsible with everything that happens with Paragon, and I hold zero responsibility. I simply made the script, and *you* are using it to cheat. Regardless, this script is intended to be an exploit, but **DON’T BLAME ME IF YOU’RE BANNED!** I have yet to add anti-anti cheat measures yet!
+Even though Paragon is advertised as an exploit, cheating on any Roblox game other than your *own* is against terms of service and highly bannable. You are fully responsible with everything that happens with Paragon, and I hold zero responsibility. I simply made the script, and *you* are using it to cheat. Regardless, this script is intended to be an exploit, but **DON’T BLAME ME IF YOU’RE BANNED!** I have yet to add anti-anti cheat measures!
 
 ### Working or Not?
 
